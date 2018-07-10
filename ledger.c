@@ -7,7 +7,7 @@
 
 #if HAVE_LEDGER
 
-#include "php_ledger.h"
+#include "ledger.h"
 
 PHP_MINFO_FUNCTION(ledger)
 {
