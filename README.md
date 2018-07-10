@@ -5,13 +5,20 @@
 
 A PHP extension to add Ledger Wallet binding support.
 
+## Install
+
+Via Git
+
+```bash
+$ git clone git@github.com:pxgamer/php-ext-ledger
+$ cd php-ext-ledger
+$ ./build.sh
+$ sudo make install # Install the library so that it can be used by PHP
+```
+
 ## Change log
 
 Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
-
-## Security
-
-If you discover any security related issues, please email owzie123@gmail.com instead of using the issue tracker.
 
 ## Credits
 
