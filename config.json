@@ -58,8 +58,8 @@
     },
     "namespace": "ledger",
     "name": "Ledger",
-    "description": "",
-    "author": "",
+    "description": "A PHP extension to add Ledger Wallet binding support.",
+    "author": "Owen Voke",
     "version": "0.0.1",
     "verbose": false,
     "requires": {
