@@ -1,0 +1,5 @@
+namespace Ledger;
+
+class Ledger
+{
+}

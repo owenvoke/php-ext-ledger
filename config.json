@@ -56,7 +56,7 @@
         "indent": "spaces",
         "export-classes": false
     },
-    "namespace": "Ledger",
+    "namespace": "ledger",
     "name": "Ledger",
     "description": "",
     "author": "",
