@@ -10,10 +10,9 @@ A PHP extension to add Ledger Wallet binding support.
 Via Git
 
 ```bash
-$ git clone git@github.com:pxgamer/php-ext-ledger
+$ git clone https://github.com/pxgamer/php-ext-ledger
 $ cd php-ext-ledger
-$ ./build.sh
-$ sudo make install # Install the library so that it can be used by PHP
+$ zephir build
 ```
 
 ## Change log
