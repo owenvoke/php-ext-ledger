@@ -1,7 +1,0 @@
-ARG_ENABLE('ledger', 'ledger support', 'no');
-
-if (PHP_LEDGER != 'no') {
-	AC_DEFINE('HAVE_LEDGER', 1, 'ledger support enabled');
-
-	EXTENSION('ledger', 'ledger.c', null, '/DZEND_ENABLE_STATIC_TSRMLS_CACHE=1');
-}
